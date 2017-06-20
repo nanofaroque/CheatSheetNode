@@ -13,3 +13,6 @@ Some important tutorial and helper for NODE.JS
 ### Adding module 
 
 Preferences--> Language and Frameworks --> Node.js and NPM --> Add button --> Search Module --> Install Package 
+
+## Promise explanations
+https://scotch.io/tutorials/javascript-promises-for-dummies
