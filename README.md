@@ -16,3 +16,6 @@ Preferences--> Language and Frameworks --> Node.js and NPM --> Add button --> Se
 
 ## Promise explanations
 https://scotch.io/tutorials/javascript-promises-for-dummies
+
+## SET UP EXPRESS AND SEQUELIZE
+https://groundberry.github.io/development/2016/11/04/build-your-node-app-with-express-and-sequelize.html
