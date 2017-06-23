@@ -19,3 +19,4 @@ https://scotch.io/tutorials/javascript-promises-for-dummies
 
 ## SET UP EXPRESS AND SEQUELIZE
 https://groundberry.github.io/development/2016/11/04/build-your-node-app-with-express-and-sequelize.html
+https://www.youtube.com/watch?v=qwAEYnfC3K8
