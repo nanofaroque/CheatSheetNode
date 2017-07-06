@@ -17,6 +17,10 @@ Preferences--> Language and Frameworks --> Node.js and NPM --> Add button --> Se
 ## Promise explanations
 https://scotch.io/tutorials/javascript-promises-for-dummies
 
+## PG-BOSS explanations
+https://github.com/timgit/pg-boss/blob/HEAD/docs/usage.md#publishname-data-options
+https://github.com/timgit/pg-boss
+
 ## SET UP EXPRESS AND SEQUELIZE
 https://groundberry.github.io/development/2016/11/04/build-your-node-app-with-express-and-sequelize.html
 https://www.youtube.com/watch?v=qwAEYnfC3K8
