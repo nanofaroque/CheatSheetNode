@@ -24,3 +24,6 @@ https://github.com/timgit/pg-boss
 ## SET UP EXPRESS AND SEQUELIZE
 https://groundberry.github.io/development/2016/11/04/build-your-node-app-with-express-and-sequelize.html
 https://www.youtube.com/watch?v=qwAEYnfC3K8
+
+# JS class ES6
+http://2ality.com/2015/02/es6-classes-final.html
