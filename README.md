@@ -27,3 +27,4 @@ https://www.youtube.com/watch?v=qwAEYnfC3K8
 
 # JS class ES6
 http://2ality.com/2015/02/es6-classes-final.html
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
