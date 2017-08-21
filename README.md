@@ -36,3 +36,9 @@ https://apigility.org/documentation/auth/authentication-oauth2
 
 http://layer0.authentise.com/why-we-use-jwt-instead-of-oauth-to-secure-microservice-communication.html
 
+http://docs.oracle.com/cloud/latest/marketingcs_gs/OMCAB/Developers/GettingStarted/Authentication/authenticate-using-oauth.htm
+
+https://www.voxxed.com/2016/10/oauth2-in-depth-introduction-for-enterprises/
+
+https://tools.ietf.org/pdf/rfc6749.pdf
+
