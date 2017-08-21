@@ -42,3 +42,6 @@ https://www.voxxed.com/2016/10/oauth2-in-depth-introduction-for-enterprises/
 
 https://tools.ietf.org/pdf/rfc6749.pdf
 
+# Installing REDIS
+https://redis.io/topics/quickstart
+
