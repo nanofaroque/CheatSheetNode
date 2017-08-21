@@ -33,5 +33,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 https://www.sitepoint.com/how-to-create-a-node-js-cluster-for-speeding-up-your-apps/
 # Authentications Guidelines
 https://apigility.org/documentation/auth/authentication-oauth2
+
 http://layer0.authentise.com/why-we-use-jwt-instead-of-oauth-to-secure-microservice-communication.html
 
