@@ -31,4 +31,6 @@ http://2ality.com/2015/02/es6-classes-final.html
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 # Clustering in NodeJS
 https://www.sitepoint.com/how-to-create-a-node-js-cluster-for-speeding-up-your-apps/
+# Authentications Guidelines
+https://apigility.org/documentation/auth/authentication-oauth2
 
