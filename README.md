@@ -45,3 +45,5 @@ https://tools.ietf.org/pdf/rfc6749.pdf
 # Installing REDIS
 https://redis.io/topics/quickstart
 
+# AWS Nodejs guidelines
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/nodejs-getstarted.html
