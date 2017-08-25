@@ -47,3 +47,7 @@ https://redis.io/topics/quickstart
 
 # AWS Nodejs guidelines
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/nodejs-getstarted.html
+# AWS Deployment tutorial 
+https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-1-d67367ac5171
+
+https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-2-5fbdea95f8a1
