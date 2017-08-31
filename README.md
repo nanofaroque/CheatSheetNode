@@ -51,3 +51,6 @@ http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/nodejs-getstarted.html
 https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-1-d67367ac5171
 
 https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-2-5fbdea95f8a1
+
+# Dockerized Nodejs Application
+https://buddy.works/guides/how-dockerize-node-application
