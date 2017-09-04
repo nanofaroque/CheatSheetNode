@@ -54,3 +54,5 @@ https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-pa
 
 # Dockerized Nodejs Application
 https://buddy.works/guides/how-dockerize-node-application
+# Docker Jenkins and AWS EC2
+http://cloudway.io/post/jenkins-in-ec2-container-service/
