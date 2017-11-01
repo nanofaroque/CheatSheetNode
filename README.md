@@ -42,8 +42,9 @@ https://www.voxxed.com/2016/10/oauth2-in-depth-introduction-for-enterprises/
 
 https://tools.ietf.org/pdf/rfc6749.pdf
 
-# Installing REDIS
+# Installing REDIS and use with NODE.JS
 https://redis.io/topics/quickstart
+https://coligo.io/nodejs-api-redis-cache/
 
 # AWS Nodejs guidelines
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/nodejs-getstarted.html
